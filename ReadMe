@@ -1,3 +1,2 @@
-Glioma is a type of aggressive brain tumor with a 5% survival rate for glioblastomas. 
-This project presents the use of deep learning and image processing techniques based on Multimodal Brain Tumor Image Segmentation 
+Glioma is a type of aggressive brain tumor with a 5% survival rate for glioblastomas.This project presents the use of deep learning and image processing techniques based on Multimodal Brain Tumor Image Segmentation 
 for dividing tumors into different regions with a dataset of MRI images taken in 4 different styles (flair, t1, t1ce, t2) of patients with glioma brain tumors.
